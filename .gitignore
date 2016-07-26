@@ -1,0 +1,8 @@
+*.pot
+*.log
+*.pyc
+*.swp
+.idea/
+static/
+.sass-cache
+.ropeproject
